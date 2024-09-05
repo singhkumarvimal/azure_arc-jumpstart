@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
         "spnClientId": {
-            "value": "<your service principal client id>"
+            "value": "5aaebc19-af67-4adf-8583-b42211434abd"
         },
         "spnClientSecret": {
-            "value": "<your service principal secret>"
+            "value": "GZv8Q~TwwoQ4FkW.HCOTvT~VQY~NvqgnJoBOya3N"
         },
         "spnTenantId": {
-            "value": "<your service principal tenant id>"
+            "value": "09d8fa7c-6336-4d8b-8da6-f50b3ac1d04b"
         },
         "spnProviderId": {
-            "value": "<your Microsoft.AzureStackHCI resource provider object id>"
+            "value": "35e6990a-ff95-4202-93bf-eabd8b604e95"
         },
         "windowsAdminUsername": {
             "value": "arcdemo"
